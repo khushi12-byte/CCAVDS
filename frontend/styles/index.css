@@ -1,0 +1,19 @@
+* {
+    margin: 0px 5px;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    /* background-color: rgb(159, 243, 248); */
+}
+
+nav {
+    font-size: 1.5em;
+    border-bottom: 1px darkblue solid;
+    /* margin-bottom: 2em; */
+}
+
+#image {
+    height: 200px;
+    width: 50%;
+}
